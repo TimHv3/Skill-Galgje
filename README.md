@@ -25,7 +25,7 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "?"
+- beurt1: <seb> gokt "?"
 - (Git-master vult hier reactie in: goed/fout + updates)
 <<<<<<< HEAD
 - beurt2: ...
