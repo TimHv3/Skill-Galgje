@@ -29,4 +29,5 @@ C,
 - (Git-master vult hier reactie in: goed/fout + updates)
 <<<<<<< HEAD
 - beurt2: Anouar c
+- beurt3: Jesse s
 =======
