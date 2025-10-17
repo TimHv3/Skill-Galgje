@@ -21,7 +21,7 @@
 ## Status
 ![status](images/6.png)
 
-C, M, I, F
+C, M, I, F, P
 ---
 
 ## Beurtenlog
