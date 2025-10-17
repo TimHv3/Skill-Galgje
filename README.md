@@ -1,1 +1,27 @@
 # Skill-Galgje
+
+**Team:** <Paart>  
+**Spelvolgorde & contact:**
+1. <Naam 1> – <Seb>
+2. <Naam 2> – <Anouar>
+3. <Naam 3> – <Jesse>
+4. <Naam 4> – <Tim>
+
+---
+
+## Woordraster
+<!-- Pas het aantal kolommen aan aan de woordlengte -->
+| . | . | . | . | . | . | . | . | . | . | . | . | . | . | . |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+
+## Status
+![status](images/1.png)
+
+
+---
+
+## Beurtenlog
+- beurt1: <Naam> gokt "?"
+- (Git-master vult hier reactie in: goed/fout + updates)
+- beurt2: ...
