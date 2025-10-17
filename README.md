@@ -19,9 +19,9 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 
 ## Status
-![status](images/4.png)
+![status](images/5.png)
 
-C, M, I
+C, M, I, F
 ---
 
 ## Beurtenlog
@@ -41,4 +41,5 @@ C, M, I
 - beurt7: seb i
 - fout
 - buert8: Anouar f
+- fout
 =======
