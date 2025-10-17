@@ -19,22 +19,23 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 
 ## Status
-![status](images/2.png)
+![status](images/3.png)
 
-C,
+C, M
 ---
 
 ## Beurtenlog
 - beurt1: <seb> gokt "a"
-goed
+- goed
 <<<<<<< HEAD
 - beurt2: Anouar c
-fout
+- fout
 - beurt3: Jesse s
-goed
+- goed
 - beurt4: seb e
-goed
+- goed
 - beurt5: Anouar r
-goed
+- goed
 - beurt6: Jesse m
+- fout
 =======
