@@ -19,7 +19,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 
 ## Status
-![status](images/5.png)
+![status](images/6.png)
 
 C, M, I, F
 ---
@@ -43,4 +43,5 @@ C, M, I, F
 - beurt8: Anouar f
 - fout
 - beurt9: Jesse p
+- fout
 =======
