@@ -19,9 +19,9 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 
 ## Status
-![status](images/6.png)
+![status](images/7.png)
 
-C, M, I, F, P
+C, M, I, F, P, D
 ---
 
 ## Beurtenlog
@@ -45,4 +45,5 @@ C, M, I, F, P
 - beurt9: Jesse p
 - fout
 - beurt10: seb d
+- fout
 =======
