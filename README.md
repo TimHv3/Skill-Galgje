@@ -6,7 +6,7 @@
 1. <Naam 1> – Seb
 2. <Naam 2> – Anouar
 3. <Naam 3> – Jesse
-4. <Naam 4> – 
+4. <Naam 4> – Tim
 =======
 
 ---
@@ -31,4 +31,5 @@ C,
 - beurt2: Anouar c
 - beurt3: Jesse s
 - beurt4: seb e
+- beurt5: Anouar r
 =======
