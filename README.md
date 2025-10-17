@@ -28,5 +28,5 @@
 - beurt1: <seb> gokt "a"
 - (Git-master vult hier reactie in: goed/fout + updates)
 <<<<<<< HEAD
-- beurt2: ...
+- beurt2: Anouar c
 =======
