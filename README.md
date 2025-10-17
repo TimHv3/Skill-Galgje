@@ -38,4 +38,5 @@ C, M
 - goed
 - beurt6: Jesse m
 - fout
+- beurt7: seb i
 =======
