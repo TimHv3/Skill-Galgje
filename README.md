@@ -14,7 +14,7 @@
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
 <<<<<<< HEAD
-| . | . | . | . | s | . | a | . | e | . | s | . | a | a | . |
+| r | . | . | . | s | . | a | . | e | r | s | . | a | a | . |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 
@@ -26,10 +26,14 @@ C,
 
 ## Beurtenlog
 - beurt1: <seb> gokt "a"
-- (Git-master vult hier reactie in: goed/fout + updates)
+goed
 <<<<<<< HEAD
 - beurt2: Anouar c
+fout
 - beurt3: Jesse s
+goed
 - beurt4: seb e
+goed
 - beurt5: Anouar r
+goed
 =======
